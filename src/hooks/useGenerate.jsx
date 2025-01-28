@@ -100,13 +100,11 @@ const useGenerate = () => {
 
     // generate a random id
     const randomId = generateRandomID();
-    console.log(randomId);
 
     if (pokeInfo.hasOwnProperty(randomId)) {
       const validObject = pokeInfo[randomId];
       validUrl = validObject["species_url"];
       pokemonName = capitilizeName(validObject["name"]);
-      console.log(pokemonName);
 
       const answerObject = {
         id: randomId,
@@ -144,9 +142,6 @@ const useGenerate = () => {
   useEffect(() => {
     if (!isLoadingInfo && Object.keys(answer).length === 0) {
       generateQuestionRound();
-    } else if (!isLoadingInfo && currQuestion !== "") {
-      console.log(currQuestion);
-      console.log(answer);
     }
   }, [isLoadingInfo]);
 
