@@ -1,0 +1,537 @@
+{
+    "387": {
+        "name": "turtwig",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/387/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/387.png"
+    },
+    "390": {
+        "name": "chimchar",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/390/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/390.png"
+    },
+    "393": {
+        "name": "piplup",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/393/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/393.png"
+    },
+    "396": {
+        "name": "starly",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/396/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/396.png"
+    },
+    "399": {
+        "name": "bidoof",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/399/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/399.png"
+    },
+    "401": {
+        "name": "kricketot",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/401/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/401.png"
+    },
+    "403": {
+        "name": "shinx",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/403/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/403.png"
+    },
+    "406": {
+        "name": "budew",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/406/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/406.png"
+    },
+    "408": {
+        "name": "cranidos",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/408/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/408.png"
+    },
+    "410": {
+        "name": "shieldon",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/410/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/410.png"
+    },
+    "412": {
+        "name": "burmy",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/412/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/412.png"
+    },
+    "415": {
+        "name": "combee",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/415/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/415.png"
+    },
+    "417": {
+        "name": "pachirisu",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/417/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/417.png"
+    },
+    "418": {
+        "name": "buizel",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/418/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/418.png"
+    },
+    "420": {
+        "name": "cherubi",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/420/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/420.png"
+    },
+    "422": {
+        "name": "shellos",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/422/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/422.png"
+    },
+    "425": {
+        "name": "drifloon",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/425/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/425.png"
+    },
+    "427": {
+        "name": "buneary",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/427/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/427.png"
+    },
+    "431": {
+        "name": "glameow",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/431/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/431.png"
+    },
+    "433": {
+        "name": "chingling",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/433/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/433.png"
+    },
+    "434": {
+        "name": "stunky",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/434/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/434.png"
+    },
+    "436": {
+        "name": "bronzor",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/436/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/436.png"
+    },
+    "438": {
+        "name": "bonsly",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/438/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/438.png"
+    },
+    "439": {
+        "name": "mime-jr",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/439/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/439.png"
+    },
+    "440": {
+        "name": "happiny",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/440/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/440.png"
+    },
+    "441": {
+        "name": "chatot",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/441/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/441.png"
+    },
+    "442": {
+        "name": "spiritomb",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/442/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/442.png"
+    },
+    "443": {
+        "name": "gible",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/443/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/443.png"
+    },
+    "446": {
+        "name": "munchlax",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/446/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/446.png"
+    },
+    "447": {
+        "name": "riolu",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/447/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/447.png"
+    },
+    "449": {
+        "name": "hippopotas",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/449/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/449.png"
+    },
+    "451": {
+        "name": "skorupi",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/451/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/451.png"
+    },
+    "453": {
+        "name": "croagunk",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/453/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/453.png"
+    },
+    "388": {
+        "name": "grotle",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/388/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/388.png"
+    },
+    "389": {
+        "name": "torterra",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/389/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/389.png"
+    },
+    "392": {
+        "name": "infernape",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/392/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/392.png"
+    },
+    "394": {
+        "name": "prinplup",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/394/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/394.png"
+    },
+    "395": {
+        "name": "empoleon",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/395/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/395.png"
+    },
+    "397": {
+        "name": "staravia",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/397/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/397.png"
+    },
+    "398": {
+        "name": "staraptor",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/398/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/398.png"
+    },
+    "400": {
+        "name": "bibarel",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/400/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/400.png"
+    },
+    "402": {
+        "name": "kricketune",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/402/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/402.png"
+    },
+    "404": {
+        "name": "luxio",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/404/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/404.png"
+    },
+    "405": {
+        "name": "luxray",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/405/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/405.png"
+    },
+    "407": {
+        "name": "roserade",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/407/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/407.png"
+    },
+    "409": {
+        "name": "rampardos",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/409/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/409.png"
+    },
+    "411": {
+        "name": "bastiodon",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/411/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/411.png"
+    },
+    "413": {
+        "name": "wormadam",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/413/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/413.png"
+    },
+    "414": {
+        "name": "mothim",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/414/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/414.png"
+    },
+    "416": {
+        "name": "vespiquen",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/416/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/416.png"
+    },
+    "419": {
+        "name": "floatzel",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/419/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/419.png"
+    },
+    "421": {
+        "name": "cherrim",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/421/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/421.png"
+    },
+    "424": {
+        "name": "ambipom",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/424/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/424.png"
+    },
+    "426": {
+        "name": "drifblim",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/426/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/426.png"
+    },
+    "428": {
+        "name": "lopunny",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/428/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/428.png"
+    },
+    "429": {
+        "name": "mismagius",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/429/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/429.png"
+    },
+    "430": {
+        "name": "honchkrow",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/430/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/430.png"
+    },
+    "432": {
+        "name": "purugly",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/432/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/432.png"
+    },
+    "435": {
+        "name": "skuntank",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/435/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/435.png"
+    },
+    "437": {
+        "name": "bronzong",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/437/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/437.png"
+    },
+    "444": {
+        "name": "gabite",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/444/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/444.png"
+    },
+    "445": {
+        "name": "garchomp",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/445/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/445.png"
+    },
+    "448": {
+        "name": "lucario",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/448/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png"
+    },
+    "450": {
+        "name": "hippowdon",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/450/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/450.png"
+    },
+    "452": {
+        "name": "drapion",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/452/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/452.png"
+    },
+    "455": {
+        "name": "carnivine",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/455/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/455.png"
+    },
+    "456": {
+        "name": "finneon",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/456/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/456.png"
+    },
+    "458": {
+        "name": "mantyke",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/458/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/458.png"
+    },
+    "459": {
+        "name": "snover",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/459/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/459.png"
+    },
+    "479": {
+        "name": "rotom",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/479/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/479.png"
+    },
+    "480": {
+        "name": "uxie",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/480/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/480.png"
+    },
+    "481": {
+        "name": "mesprit",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/481/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/481.png"
+    },
+    "482": {
+        "name": "azelf",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/482/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/482.png"
+    },
+    "483": {
+        "name": "dialga",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/483/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/483.png"
+    },
+    "484": {
+        "name": "palkia",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/484/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/484.png"
+    },
+    "485": {
+        "name": "heatran",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/485/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/485.png"
+    },
+    "486": {
+        "name": "regigigas",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/486/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/486.png"
+    },
+    "487": {
+        "name": "giratina",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/487/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/487.png"
+    },
+    "488": {
+        "name": "cresselia",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/488/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/488.png"
+    },
+    "489": {
+        "name": "phione",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/489/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/489.png"
+    },
+    "490": {
+        "name": "manaphy",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/490/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/490.png"
+    },
+    "491": {
+        "name": "darkrai",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/491/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/491.png"
+    },
+    "492": {
+        "name": "shaymin",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/492/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/492.png"
+    },
+    "493": {
+        "name": "arceus",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/493/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493.png"
+    },
+    "457": {
+        "name": "lumineon",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/457/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/457.png"
+    },
+    "460": {
+        "name": "abomasnow",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/460/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/460.png"
+    },
+    "461": {
+        "name": "weavile",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/461/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/461.png"
+    },
+    "462": {
+        "name": "magnezone",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/462/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/462.png"
+    },
+    "463": {
+        "name": "lickilicky",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/463/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/463.png"
+    },
+    "464": {
+        "name": "rhyperior",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/464/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/464.png"
+    },
+    "465": {
+        "name": "tangrowth",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/465/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/465.png"
+    },
+    "466": {
+        "name": "electivire",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/466/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/466.png"
+    },
+    "467": {
+        "name": "magmortar",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/467/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/467.png"
+    },
+    "468": {
+        "name": "togekiss",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/468/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/468.png"
+    },
+    "469": {
+        "name": "yanmega",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/469/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/469.png"
+    },
+    "470": {
+        "name": "leafeon",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/470/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/470.png"
+    },
+    "471": {
+        "name": "glaceon",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/471/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/471.png"
+    },
+    "472": {
+        "name": "gliscor",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/472/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/472.png"
+    },
+    "474": {
+        "name": "porygon-z",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/474/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/474.png"
+    },
+    "475": {
+        "name": "gallade",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/475/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/475.png"
+    },
+    "476": {
+        "name": "probopass",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/476/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/476.png"
+    },
+    "477": {
+        "name": "dusknoir",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/477/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/477.png"
+    },
+    "478": {
+        "name": "froslass",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/478/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/478.png"
+    },
+    "391": {
+        "name": "monferno",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/391/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/391.png"
+    },
+    "423": {
+        "name": "gastrodon",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/423/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png"
+    },
+    "454": {
+        "name": "toxicroak",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/454/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/454.png"
+    },
+    "473": {
+        "name": "mamoswine",
+        "species_url": "https://pokeapi.co/api/v2/pokemon-species/473/",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/473.png"
+    }
+}
